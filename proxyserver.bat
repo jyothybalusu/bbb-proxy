@@ -1,0 +1,1 @@
+java -cp target\proxyserver-1.0-SNAPSHOT.jar com.testdirect.app.App
